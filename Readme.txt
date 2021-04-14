@@ -29,6 +29,8 @@ Further development could be made to showcase
 an algorithm to find universal hash functions,
 given a selection of a Universe.
 
+Unfurtunatily the interface works on large screens. However, zooming out would allow you to use but the experience isnt the same.
+
 
 
 
